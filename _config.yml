@@ -3,7 +3,7 @@ title: Tobiichi's Blog
 SEOTitle: 鸢一折纸的博客 | Tobiichi's Blog
 header-img: img/post-bg-desk.jpg
 email: L.G.Stark@hotmail.com
-description: "Nothing is true, everything is permitted."
+description: " Nothing is true, everything is permitted."
 keyword: "Tobiichi, Tobiichi's Blog, 鸢一折纸的博客, aiyuchen, 艾语晨, iOS, Apple, iPhone"
 url: "http://TobiichiAyc.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ github_repo: "https://github.com/TobiichiAyc/TobiichiAyc.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Talk is cheap. Show me the code. -- Linus Torvalds"
-# sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Tobiichi_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
